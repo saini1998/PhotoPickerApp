@@ -1,4 +1,3 @@
-
 # Photos Picker Application
 
 
@@ -14,5 +13,3 @@ Created this application to implement SwiftUI PhotoPicker, Compressed Images and
 ![s2](s2.png)
 ![s3](s3.png)
 ![s4](s4.png)
-
-
