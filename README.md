@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img  src="appicon.png">
+  <img  src="Appicon.png">
 </p>
 
 Created this application to implement SwiftUI PhotoPicker, Compressed Images and UIViewControllerRepresentable.
